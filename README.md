@@ -10,9 +10,13 @@
 
 ## 📂 Что внутри?
 
-*   `guides/` — Пошаговые инструкции по настройке на Windows, Android и iOS.
-*   `configs/` — Шаблоны конфигураций (без реальных ключей).
-*   `tests/` — Как проверить, что твой VPN реально работает, а не сливает данные.
+*   **📖 Инструкции по настройке (`guides/`)**
+    *   [Настройка на Windows](guides/windows-amneziawg.md)
+    *   [Настройка на Android](guides/android-amneziawg.md)
+*   **⚙️ Шаблоны конфигураций (`configs/`)**
+    *   [Шаблон конфига WARP + AmneziaWG](configs/warp-amnezia-template.conf) (без реальных ключей!)
+*   **🕵️ Тесты и проверки (`tests/`)**
+    *   [Как проверить, что VPN реально работает (и нет утечек)](tests/check-leaks.md)
 
 ---
 
