@@ -11,6 +11,7 @@
 *   **📖 Инструкции по настройке (`guides/`)**
     *   [Настройка на Windows](guides/windows-amneziawg.md)
     *   [Настройка на Android](guides/android-amneziawg.md)
+    *   [Настройка на iOS](guides/ios-amneziawg.md)
 *   **⚙️ Шаблоны конфигураций (`configs/`)**
     *   [Шаблон конфига WARP + AmneziaWG](configs/warp-amnezia-template.conf) (без реальных ключей!)
 *   **🕵️ Тесты и проверки (`tests/`)**
